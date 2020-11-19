@@ -3,22 +3,15 @@
   - I'm currently working on **webdev challenges**
   - I'm currently learning **PHP**
   - Ask me about **HTML/CSS/JS**
+  - Don't ask me about **JS Frameworks**
   - How to reach me: **<a href="mailto:piotrbadelek@protonmail.com">piotrbadelek@protonmail.com</a>**
   - Fun fact: **My first program was a calculator in Visual Basic** (Winforms)
   
 ### Programming Languages / Tools
- - Javascript
- - HTML
- - CSS
- - Bootstrap
- - PHP
- - C#
- - Ruby
- - NodeJS
- - Discord.JS
- - Unity
- - Blender
- - GIMP
+<div align="center">
+<img src="html5.svg" width="50px" height="50px" alt="HTML5"> <img src="css3.svg" width="50px" height="50px" alt="CSS3"> <img src="js.png" width="50px" height="50px" alt="Javascript"> <img src="bootstrap.png" width="50px" height="50px" alt="Bootstrap"> <img src="php.png" width="50px" height="50px" alt="PHP"> <img src="csharp.png" width="50px" height="50px" alt="C#"> <img src="nodejs.png" width="50px" height="50px" alt="NodeJS"> <img src="djs.png" width="50px" height="50px" alt="Discord.JS"> <img src="ruby.png" width="50px" height="50px" alt="Ruby"> <img src="unity.png" width="50px" height="50px" alt="Unity"> <img src="gim.svg" width="50px" height="50px" alt="GIMP"> <img src="blender.png" width="150px" height="50px" alt="Blender">
+</div>
+
 
 ![ProgramistaZpolski's github stats](https://github-readme-stats.vercel.app/api?username=programistazpolski)
 <div align="center"><img src="https://komarev.com/ghpvc/?username=programistazpolski"></div><br>
