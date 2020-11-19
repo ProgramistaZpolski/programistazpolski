@@ -10,6 +10,7 @@
  - Javascript
  - HTML
  - CSS
+ - Bootstrap
  - PHP
  - C#
  - Ruby
