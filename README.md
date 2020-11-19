@@ -3,7 +3,6 @@
   - I'm currently working on **webdev challenges**
   - I'm currently learning **PHP**
   - Ask me about **HTML/CSS/JS**
-  - Don't ask me about **JS Frameworks**
   - How to reach me: **<a href="mailto:piotrbadelek@protonmail.com">piotrbadelek@protonmail.com</a>**
   - Fun fact: **My first program was a calculator in Visual Basic** (Winforms)
   
