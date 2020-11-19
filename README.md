@@ -13,7 +13,8 @@
 </div><br>
 
 
-![ProgramistaZpolski's github stats](https://github-readme-stats.vercel.app/api?username=programistazpolski)
+![ProgramistaZpolski's github stats](https://github-readme-stats.vercel.app/api?username=programistazpolski&show_icons=true&theme=nord)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programistazpolski&layout=compact&theme=nord)
 <div align="center"><img src="https://komarev.com/ghpvc/?username=programistazpolski"></div><br>
 
 
