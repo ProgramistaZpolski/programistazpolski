@@ -4,7 +4,7 @@
   - I'm currently learning **PHP**
   - Ask me about **HTML/CSS/JS**
   - How to reach me: **<a href="mailto:piotrbadelek@protonmail.com">piotrbadelek@protonmail.com</a>**
-  - Fun fact: **My first program was a calculator in Visual Basic** (Winforms)
+  - Fun fact: **My first program was a web browser in Visual Basic** (Winforms)
   
 ### Programming Languages / Tools
 <div align="center">
