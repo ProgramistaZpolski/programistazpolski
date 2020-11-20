@@ -14,6 +14,7 @@
 
 ![ProgramistaZpolski's github stats](https://github-readme-stats.vercel.app/api?username=programistazpolski&show_icons=true&theme=nord)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programistazpolski&layout=compact&theme=nord)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=programistazpolski&layout=compact&theme=nord)]
 <div align="center"><img src="https://komarev.com/ghpvc/?username=programistazpolski"></div><br>
 
 
