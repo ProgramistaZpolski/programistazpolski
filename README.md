@@ -8,7 +8,7 @@
   
 ### Programming Languages / Tools
 <div align="center">
-<img src="html5.svg" width="50px" height="50px" alt="HTML5"> <img src="css3.svg" width="50px" height="50px" alt="CSS3"> <img src="js.png" width="50px" height="50px" alt="Javascript"> <img src="bootstrap.png" width="50px" height="50px" alt="Bootstrap"> <img src="php.png" width="50px" height="50px" alt="PHP"> <img src="csharp.png" width="50px" height="50px" alt="C#"> <img src="nodejs.png" width="50px" height="50px" alt="NodeJS"> <img src="djs.png" width="50px" height="50px" alt="Discord.JS"> <img src="ruby.png" width="50px" height="50px" alt="Ruby"> <img src="unity.png" width="50px" height="50px" alt="Unity"> <img src="gim.svg" width="50px" height="50px" alt="GIMP"> <img src="blender.png" width="150px" height="50px" alt="Blender"> <img src="dphp.png" width="150px" height="50px" alt="DiscordPHP">
+<img src="html5.svg" width="50px" height="50px" alt="HTML5"> <img src="css3.svg" width="50px" height="50px" alt="CSS3"> <img src="js.png" width="50px" height="50px" alt="Javascript"> <img src="bootstrap.png" width="50px" height="50px" alt="Bootstrap"> <img src="php.png" width="50px" height="50px" alt="PHP"> <img src="csharp.png" width="50px" height="50px" alt="C#"> <img src="nodejs.png" width="50px" height="50px" alt="NodeJS"> <img src="djs.png" width="50px" height="50px" alt="Discord.JS"> <img src="ruby.png" width="50px" height="50px" alt="Ruby"> <img src="unity.png" width="50px" height="50px" alt="Unity"> <img src="gim.svg" width="50px" height="50px" alt="GIMP"> <img src="blender.png" width="150px" height="50px" alt="Blender"> <img src="dphp.png" width="200px" height="50px" alt="DiscordPHP">
 </div><br>
 
 
