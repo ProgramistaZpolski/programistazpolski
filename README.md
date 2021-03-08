@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there, I'm ProgramistaZpolski 👋 </h1>
 
   - I'm currently working on **[pzplUI](https://github.com/ProgramistaZpolski/pzplUI)**
-  - I'm currently learning **PHP**
-  - Ask me about **HTML/CSS/JS**
+  - I'm currently learning **MySQL**
+  - Ask me about **HTML/CSS/JS/PHP**
   - How to reach me: **<a href="mailto:piotrbadelek@protonmail.com">piotrbadelek@protonmail.com</a>**
   - Fun fact: **My first program was a web browser in Visual Basic** (Winforms)
   
