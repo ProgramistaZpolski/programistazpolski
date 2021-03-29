@@ -5,7 +5,7 @@
   - Ask me about **HTML/CSS/JS/PHP**
   - How to reach me: **<a href="mailto:piotrbadelek@protonmail.com">piotrbadelek@protonmail.com</a>**
   - Fun fact: **My first program was a web browser in Visual Basic** (Winforms)
-  - Master >>>>>>>>> Main
+  - Master >>>>>>>>> Main, Tabs >>>>>>>>>> spaces
   
 ### Programming Languages / Tools
 <div align="center">
