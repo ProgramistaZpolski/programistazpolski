@@ -26,7 +26,7 @@
 ### Devices
 [![LG K11](https://img.shields.io/badge/LG%20K11-c70851?style=flat-square&logo=lg&logoColor=FFFFFF&labelColor=c70851)](https://www.mgsm.pl/pl/katalog/lg/k11dualsim/)
 [![BlackBerry Bold 9790](https://img.shields.io/badge/BlackBerry%20Bold%209790-000000?style=flat-square&logo=blackberry&logoColor=FFFFFF&labelColor=000000)](https://www.gsmarena.com/blackberry_bold_9790-4332.php)
-[![NavRoad Nexo Avio](https://img.shields.io/badge/NavRoad%20Nexo%20Avio-000000?style=flat-square&logoColor=FFFFFF&labelColor=000000)](https://www.gsmarena.com/samsung_galaxy_j7_(2016)-7870.php)
+[![NavRoad Nexo Avio](https://img.shields.io/badge/NavRoad%20Nexo%20Avio-000000?style=flat-square&logoColor=FFFFFF&labelColor=000000)](https://navroad.com/product/nexo-avio/)
 ![Custom-Built PC](https://img.shields.io/badge/Custom%20Built%20PC-00BBFF?style=flat-square&logo=intel&logoColor=FFFFFF&labelColor=00BBFF)
 [![Lenovo Thinkpad T500](https://img.shields.io/badge/Lenovo%20Thinkad%20T500-ee2624?style=flat-square&logo=thinkpad&logoColor=FFFFFF&labelColor=ee2624)](https://www.ibm.com/common/ssi/rep_ca/2/897/ENUS108-652/ENUS108652.PDF)
 
