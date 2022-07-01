@@ -21,7 +21,7 @@
 ### Enviroment
 [![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://ubuntu.com/)
 [![MacOS Monterey](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/monterey/)
-[![Android 4 & 7](https://img.shields.io/badge/Android_4&7-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/versions/nougat-7-0/)
+[![Android 4 & 7](https://img.shields.io/badge/Android_4&7&12-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/versions/nougat-7-0/)
 
 ### Devices
 [![LG K11](https://img.shields.io/badge/LG%20K11-c70851?style=flat-square&logo=lg&logoColor=FFFFFF&labelColor=c70851)](https://www.mgsm.pl/pl/katalog/lg/k11dualsim/)
